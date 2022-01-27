@@ -1,8 +1,6 @@
 # ✨ 最终幻想 14 资源整合 ✨
 
-整理了个人浏览和使用过的一些网址和工具，后续补充 [艾欧泽亚 NGA玩家社区](https://bbs.nga.cn/thread.php?fid=-362960) 上比较推荐的内容（或者直接把版头搬过来🙈
-
-欢迎提交 issue 推荐~ 🥳🥳🥳
+整理个人常用的网址和工具，欢迎推荐。
 
 
 ## 🔎 网站
@@ -14,6 +12,9 @@
 [陆行鸟礼物站](https://ffpay.sdo.com/DepositActivity/index.htm)|累计充值时长，可兑换各种奖励。直接点击访问不了的话就从 [商城中心](https://ff.web.sdo.com/web8/index.html#/shop) 跳转过去
 [Universalis](https://universalis.app/)|物价网站，可在 ACT 中安装 `抹茶Matcha` 插件启用，网站可以查询物价更新时间
 [FFXIV Chocobo Colour Calculator](https://ffxivchocobo.com/)|**英语\|日语\|法语\|德语**，陆行鸟染色饲料计算器
+[最终幻想14国服狩猎时间发布站](http://ffxivhunt.cn/)|狩猎车
+[青魔法师技能学习指南](https://thewakingsands.github.io/blue-mage/)|青魔技能
+[青魔法电子书](http://kdygsz.vps6.mydnns.com/BlueMagicebook/)|
 
 
 ### 🧠 攻略 👀
@@ -24,7 +25,9 @@
 [素素攻略站](https://www.ffxiv.cn/v2/)|综合攻略站，实用工具
 [FF14攻略ブログ](https://connietarte.com/)|**日语**，攻略网站
 [[5.3] 艾欧泽亚萌新手册 2021](https://bbs.nga.cn/read.php?tid=15174128)|面向萌新🌱的攻略
-[玩家投稿攻略](https://gl.ffxiv.cn/)|大型图文攻略，包含：T5、T9、T13、A4S、A8S、A12S、E4S、E8S、绝巴哈、绝神兵、绝亚
+[萌神神攻略库](https://moeshen.cn/ffxiv/home/)|大型图文攻略
+[[烟波钓徒][我本烟波一钓徒][5.x]烟波204鱼王心得攻略](https://bbs.nga.cn/read.php?tid=23672580)|鱼王攻略
+
 
 B 站攻略 UP
 - [子言姐姐](https://space.bilibili.com/293917/video)
@@ -77,6 +80,7 @@ B 站攻略 UP
 [imchillin/CMTool](https://github.com/imchillin/CMTool)|支持人物、装备、动作、时间天气的本地修改
 [TexTools/FFXIV_TexTools_UI](https://github.com/TexTools/FFXIV_TexTools_UI)|修改本地游戏贴图和模型
 [海滨墙架V1.1(国服5.5)(房屋装修插件)](https://bbs.nga.cn/read.php?tid=22777919)|装修辅助工具
+[宅爷自制弹琴助手/宅爷自制弹琴小精灵](https://bbs.nga.cn/read.php?tid=17450001)|乐器演奏辅助
 
 
 ## 📖 教程
@@ -85,3 +89,4 @@ B 站攻略 UP
 ---|---
 [[资治通鉴新编]《宏学(第三版)》](https://bbs.nga.cn/read.php?tid=22108275)|宏的使用教程
 [【FF14】物价对比网站/插件/小程序 使用说明](https://www.bilibili.com/read/cv8328404) | ACT 安装 `抹茶Metcha` 插件的使用教程
+
