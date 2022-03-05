@@ -80,6 +80,7 @@
 [海滨墙架V1.3(国服5.58)(房屋装修插件)](https://bbs.nga.cn/read.php?tid=22777919)|装修辅助工具
 [MakePlace](https://jawslouis.itch.io/makeplace)|本地装修模拟器
 [装修攻略链接整理搬运](https://bbs.nga.cn/read.php?tid=14440331)|RT
+[Housing snap](https://housingsnap.com/)|装修展示
 
 
 ## 攻略
