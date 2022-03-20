@@ -22,7 +22,7 @@
 [FF Logs - Combat Analysis for FF](https://cn.fflogs.com/)|上传 logs 的平台
 [xivanalysis](https://xivanalysis.com/)|上传 logs 后，将地址粘贴到该网站进行在线分析
 [FFLogs使用教学](https://bbs.nga.cn/read.php?tid=16465994)|logs 指南
-[最终幻想14国服狩猎时间发布站](http://ffxivhunt.cn/)|狩猎车
+[最终幻想XIV 国服狩猎信息站](https://ffxivhuntcn.com/)|狩猎车
 
 
 ### 青魔
