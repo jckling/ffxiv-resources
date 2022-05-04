@@ -52,7 +52,7 @@
 [鱼糕 - 钓鱼时钟](https://ricecake.traveleorzea.com)|RT
 [[5.2]一份渔场分布图——给致力成为渔夫光战的礼物](https://bbs.nga.cn/read.php?tid=18140243)|RT
 [[烟波钓徒][我本烟波一钓徒][5.x]烟波204鱼王心得攻略](https://bbs.nga.cn/read.php?tid=23672580)|鱼王攻略
-[FFX|V Fish Tracker App 汉化版](http://fish.senriakane.com/)|钓鱼时钟
+[FFX\|V Fish Tracker App 汉化版](http://fish.senriakane.com/)|钓鱼时钟
 
 
 ## 幻化
@@ -67,6 +67,7 @@
 [GShade冲印室](http://gshade.nightship.cn/index.html)|GShade 着色器说明
 [imchillin/CMTool](https://github.com/imchillin/CMTool)|支持人物、装备、动作、时间天气的本地修改
 [TexTools/FFXIV_TexTools_UI](https://github.com/TexTools/FFXIV_TexTools_UI)|修改本地游戏贴图和模型
+[imchillin/Anamnesis](https://github.com/imchillin/Anamnesis)|CMTool 上位替代
 [XIV Mod Archive](https://www.xivmodarchive.com)|CMtool、TexTools 相关文件下载
 [Final Fantasy XIV Nexus](https://www.nexusmods.com/finalfantasy14)|CMtool、TexTools 相关文件下载
 [FFXIV Web Model Viewer](https://ffxiv.dlunch.net/model)|在线捏人
@@ -99,9 +100,9 @@
 
 名称|说明
 ---|---
-[子言姐姐](https://space.bilibili.com/293917/video)|
-[菓子君_Okashi](https://space.bilibili.com/932340/video)|
-[顾跑跑](https://space.bilibili.com/1783244/video)|
+[子言姐姐](https://space.bilibili.com/293917/video)|攻略
+[菓子君_Okashi](https://space.bilibili.com/932340/video)|攻略
+[顾跑跑](https://space.bilibili.com/1783244/video)|攻略
 [游玩C哩酱](https://space.bilibili.com/15503317/video)|时尚品鉴
 [红红Aka](https://space.bilibili.com/8162492/video)|魔法少女攻略组
 [绝神兵本体三次运动会详解](https://www.bilibili.com/video/BV1Dr4y1T7y2)|绝神兵本体跑法详解
