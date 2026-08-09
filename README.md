@@ -89,6 +89,7 @@
 [[6.5] 艾欧泽亚萌新手册 2024](https://bbs.nga.cn/read.php?tid=15174128)|面向萌新🌱的攻略
 [萌神神攻略库](https://moeshen.cn/ffxiv/home/)|大型图文攻略
 [绝究极神兵破坏作战 攻略详解](https://bbs.nga.cn/read.php?tid=14632803)|绝神兵图文攻略
+[素素无人岛-攻略](https://wrd.ffsusu.com/#/guide)|无人岛攻略
 
 ### 视频攻略
 
